@@ -559,6 +559,8 @@
         },
         "direction": 6,
         "control_behavior": {
+            "send_to_train": false,
+            "read_from_train": true,
             "train_stopped_signal": {
                 "type": "virtual",
                 "name": "signal-T"
