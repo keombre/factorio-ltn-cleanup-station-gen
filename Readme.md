@@ -6,12 +6,12 @@ That's how the LTN Cleanup mod came to life.
 But my laziness persisted and I just couldn't be bothered to make all the required cleanup stations.
 And that's why I made this little project :)
 
-# A word of warning
+## A word of warning
 
 The stations and fluid lists are designed for pyanodons only.  
 If you want to use it in bobs, angels, or anything else you will have to make/generate your own.
 
-# Sample blueprints
+## Sample blueprints
 
 Here is the only thing this code can currently produce :D
 
